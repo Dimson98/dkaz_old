@@ -1,2 +1,2 @@
 # dkaz
-Solo
+Some snippets for dkaz.ru
