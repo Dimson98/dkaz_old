@@ -1,2 +1,2 @@
 # dkaz
-Some snippets for dkaz.ru
+Some snippets for EAM
